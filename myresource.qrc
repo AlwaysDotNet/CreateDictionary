@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/power.ico</file>
+        <file>img/create_tr.ico</file>
+        <file>img/open_tr.ico</file>
+        <file>img/add_word.ico</file>
+        <file>img/remove_word.ico</file>
+        <file>img/star.ico</file>
+        <file>img/start_sl.ico</file>
+        <file>img/telegram.ico</file>
+        <file>img/whatsapp.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>base/Eng_Russian.csv</file>
+    </qresource>
+</RCC>
